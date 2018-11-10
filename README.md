@@ -28,6 +28,5 @@ The books below can help a lot to increase their skills. These books are widely 
 # Working Effectively with Legacy Code
 ![6](https://user-images.githubusercontent.com/37344605/48300518-0966d280-e509-11e8-88bf-f89ca30c47d5.jpg)
 
-## Md. Golam Rabbani ;; CSE_DIU-2018
 
 
